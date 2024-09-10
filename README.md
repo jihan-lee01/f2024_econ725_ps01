@@ -43,13 +43,12 @@ The primary objective of this project is to build a user-friendly budgeting tool
 * Expand the tool to include features like investment tracking or integrating with banking APIs for real-time updates.
 
 ## Contributions
-
-- Jihan: Writing Objective, Planned Workflow section in README file.
-- Briana: Project title, member names, and description.
+- **Jihan**: Objective and Planned Workflow sections.
+- **Briana**: Project Title, Member Names, Description, and Additional Information sections.
 
 ## Additional Information 
-
-- ChatGPT was used for the Description, Objective, and Planned Workflow sections 
+- ChatGPT was used for generating the title image and part of texts in the Description, Objective, and Planned Workflow sections.
+- We referred to [this website](https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e) and [this README template](https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md?plain=1) when writing this README file.
 - We encountered a Merge Conflict when we were both making changes to the README file at the same time. We manually created a pull request and edited the README file on GitHub in order to resolve the conflict. 
 
 ## Contact
