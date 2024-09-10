@@ -43,3 +43,6 @@ The primary objective of this project is to build a user-friendly budgeting tool
 ## Contributions
 - Jihan: Writing Objective, Planned Workflow section in README file.
 - Briana: Project title, member names, and description.
+
+- ChatGPT was used for the Description, Objective, and Planned Workflow sections 
+- We encountered a Merge Conflict when we were both making changes to the README file at the same time. We manually created a pull request and edited the README file on GitHub in order to resolve the conflict. 
