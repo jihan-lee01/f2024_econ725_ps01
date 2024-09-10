@@ -41,5 +41,8 @@ The primary objective of this project is to build a user-friendly budgeting tool
 * Expand the tool to include features like investment tracking or integrating with banking APIs for real-time updates.
 
 ## Contributions
-- Jihan: Writing Objective, Planned Workflow section in README file.
-- Briana: Project title, member names, and description.
+- **Jihan**: Writing Objective, Planned Workflow section in README file.
+- **Briana**: Project title, member names, and description.
+
+## Contact
+If you have any questions, feel free to reach out [here](https://economics.emory.edu)!
