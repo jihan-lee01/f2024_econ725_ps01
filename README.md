@@ -1,8 +1,10 @@
-# f2024_econ725_ps01
+# Budgeting for College Students
 
+## Members: 
+Jihan Lee and Briana Yang
 
-
-
+## Description: 
+This data analysis project aims to explore and optimize budgeting strategies for college students by analyzing various financial factors that impact their spending and savings.
 
 ## Objective
 The primary objective of this project is to build a user-friendly budgeting tool tailored to the unique financial needs of college students. The tool will help students track income, manage expenses, set savings goals, and visualize their spending patterns. By providing insights into their financial habits, the project aims to empower students to make informed decisions about their money and develop strong financial management skills during their academic years. 
@@ -40,7 +42,7 @@ The primary objective of this project is to build a user-friendly budgeting tool
 
 ## Contributions
 - **Jihan**: Writing Objective, Planned Workflow section in README file.
-- **Briana**:
+- **Briana**: Project title, member names, and description.
 
 ## Contact
 If you have any questions, feel free to reach out [here](https://economics.emory.edu)!
