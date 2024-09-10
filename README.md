@@ -43,4 +43,4 @@ The primary objective of this project is to build a user-friendly budgeting tool
 - **Briana**:
 
 ## Contact
-If you have any questions, feel free to reach out [here](economics.emory.edu)!
+If you have any questions, feel free to reach out [here](https://economics.emory.edu)!
