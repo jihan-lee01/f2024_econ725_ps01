@@ -2,10 +2,10 @@
 
 ![Budgeting for College Students](img/title.webp)
 
-## Members: 
+## Members
 Jihan Lee and Briana Yang
 
-## Description: 
+## Description 
 This data analysis project aims to explore and optimize budgeting strategies for college students by analyzing various financial factors that impact their spending and savings.
 
 ## Objective
