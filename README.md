@@ -41,8 +41,15 @@ The primary objective of this project is to build a user-friendly budgeting tool
 * Expand the tool to include features like investment tracking or integrating with banking APIs for real-time updates.
 
 ## Contributions
-- **Jihan**: Writing Objective, Planned Workflow section in README file.
-- **Briana**: Project title, member names, and description.
+
+- Jihan: Writing Objective, Planned Workflow section in README file.
+- Briana: Project title, member names, and description.
+
+## Additional Information 
+
+- ChatGPT was used for the Description, Objective, and Planned Workflow sections 
+- We encountered a Merge Conflict when we were both making changes to the README file at the same time. We manually created a pull request and edited the README file on GitHub in order to resolve the conflict. 
 
 ## Contact
 If you have any questions, feel free to reach out [here](https://economics.emory.edu)!
+
